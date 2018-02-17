@@ -3,7 +3,7 @@
 Derek Prince, Andrew Lim
 
 ## Overview
-Video: [Processing]()
+Video: [Youtube](https://www.youtube.com/watch?v=34OcP9C0eRw)
 
 For this project we wanted to use the Leap Motion to allow people to play a musical instrument with their hands in the air. In the end we chose to use a piano-like movement to control drum sounds with linear regression.
 
